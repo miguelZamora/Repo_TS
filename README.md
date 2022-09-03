@@ -1,8 +1,50 @@
-# AngularTourOfHeroes
+# Angular TS 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
+
+
+Para correr el servidor este es el commando 
+Abrimos el navegador con el --open 
+
+ng serve --open 
+
+
+http://localhost:4200/
+
+
+Debemos crear el repositorio esto nos crea un archivo vamos por el procedimiento
+
+1.-  acceda a git o github , entre algunos de los 
+
+
+
+
+
+--------------
+
+como crear una version tag para dar el pie incial del desarrollo
+
+git tag -a v.0.0.1 -m " Tag inicial version 0001 o N ...."
+
+ver la vresion actual
+
+git tag
+
+git push --tags 
+
+Ya se creo el tag .
+
+
+ 
+
+
+
+
+
+
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
